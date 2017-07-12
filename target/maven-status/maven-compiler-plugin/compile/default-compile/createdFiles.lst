@@ -1,0 +1,3 @@
+no/sysco/middleware/opentracing/osb/AppTracer.class
+no/sysco/middleware/opentracing/osb/Tracing.class
+no/sysco/middleware/opentracing/osb/SpanDecorator.class

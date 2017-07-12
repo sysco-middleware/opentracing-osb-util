@@ -1,0 +1,6 @@
+<view_states>
+   <function arity="3" name="func">
+      <source_tree_view last.visible.row="2" last.visible.path="/sourceRoot[[0]]/parentMessageId[[2]]" expanded.paths="" selected.paths="/sourceRoot[[0]]/parentMessageId[[2]]" first.visible.path="/sourceRoot[[0]]/messageId[[0]]" first.visible.row="0"/>
+      <target_tree_view last.visible.row="6" last.visible.path="/TargetRoot[[0]]/startTrace[[0]]/Conditional[[3]]/parentMessageId[[1]]" expanded.paths="/TargetRoot[[0]]/startTrace[[0]]&#xA;/TargetRoot[[0]]/startTrace[[0]]/Conditional[[3]]" selected.paths="/TargetRoot[[0]]/startTrace[[0]]/Conditional[[3]]/parentMessageId[[1]]" first.visible.path="/TargetRoot[[0]]/startTrace[[0]]" first.visible.row="0"/>
+   </function>
+</view_states>
