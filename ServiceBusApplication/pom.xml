@@ -13,8 +13,8 @@
         <module>System</module>
         <module>SBProjectA</module>
         <module>SBProjectB</module>
-        <module>tracing</module>
         <module>SBProjectC</module>
+        <module>tracing</module>
     </modules>
 
 </project>

@@ -26,10 +26,10 @@
       <string v="oracle.jdeveloper.model.PathsConfiguration/ResourceBundlesContentSet"/>
    </list>
    <list n="listOfChildren">
+      <hash><url n="URL" path="../../opentracing-osb/osb/tracing/tracing.jpr"/></hash>
       <hash><url n="URL" path="SBProjectA/SBProjectA.jpr"/></hash>
       <hash><url n="URL" path="SBProjectB/SBProjectB.jpr"/></hash>
       <hash><url n="URL" path="SBProjectC/SBProjectC.jpr"/></hash>
-      <hash><url n="URL" path="tracing/tracing.jpr"/></hash>
    </list>
    <hash n="oracle.jdeveloper.deploy.dt.DeploymentProfiles">
       <hash n="profileDefinitions">
@@ -48,6 +48,6 @@
       </hash>
    </hash>
    <hash n="oracle.sb.tooling.ide.core.internal.application.SbApplication">
-      <value n="configContextSessionName" v="OSB-IDE_build_1499870079452"/>
+      <value n="configContextSessionName" v="OSB-IDE_build_1499978109238"/>
    </hash>
 </jws:workspace>
